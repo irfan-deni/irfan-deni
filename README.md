@@ -1,9 +1,9 @@
 # 💫 About Me:
-Hi, I’m Irfan — a student and developer who enjoys building thoughtful software and learning how systems work under the hood.
+Hi, I’m Irfan, a student and developer who enjoys building thoughtful software and learning how systems work under the hood.
 
 I’m interested in designing applications and tools that are clean, maintainable, and useful, whether that’s at the app level or deeper in the system. I enjoy working across the stack and learning how software is built, deployed, and secured in real-world environments.
 
-I like experimenting, breaking things, and improving them—whether that’s through side projects, open source, or personal learning. Always curious, always refining my craft.
+I like experimenting, breaking things, and improving them, whether that’s through side projects, open source, or personal learning. Always curious, always refining my craft.
 
 
 ## 🌐 Socials:
