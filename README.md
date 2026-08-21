@@ -1,10 +1,10 @@
 # 💫 About Me:
-Hi, I’m Irfan, a student and developer who enjoys building thoughtful software and learning how systems work under the hood.
+I build by doing — mostly vibecoding, increasingly drawn into cloud, infra, and devops.
 
-I’m interested in designing applications and tools that are clean, maintainable, and useful, whether that’s at the app level or deeper in the system. I enjoy working across the stack and learning how software is built, deployed, and secured in real-world environments.
-
-I like experimenting, breaking things, and improving them, whether that’s through side projects, open source, or personal learning. Always curious, always refining my craft.
-
+Currently working toward:
+- Shipping a SaaS product end-to-end
+- Contributing a real open source project
+- Building a second SaaS once the first one doesn't scare me anymore
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/283965890196668416) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammad-irfan-deni-b18688260/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/CalmReception/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@notc4bbage)
